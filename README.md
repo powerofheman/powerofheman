@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Himanshu
+- 👋 Hi, I’m @Himanshu Ranjan
 - 👀 I’m interested in ...coding and development.
 - 🌱 I’m currently learning ... penetration testing and different security related tools.
+- 🌱 I have done project using solidity and node.js on web3.0 application. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... @himansh90512091 ---twitter ,mail on himansnhur.pg20.cs@nitp.ac.in
 
